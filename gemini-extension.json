@@ -1,0 +1,9 @@
+{
+  "name": "govradar",
+  "version": "1.0.0",
+  "description": "Search official Canadian federal and provincial government news releases from the last 7 days, with a link to every source.",
+  "mcpServers": {
+    "govradar": { "httpUrl": "https://www.govradar.ca/api/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}
